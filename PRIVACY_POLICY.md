@@ -48,6 +48,6 @@ If this policy changes materially, an updated version will be published at the s
 
 ## Contact
 
-For questions or concerns about this privacy policy, contact: **[your email here]**
+For questions or concerns about this privacy policy, contact: brian.strandby@pearlgroup.dk
 
-The extension is open source. You can review the full source code at: **[your repository URL here]**
+The extension is open source. You can review the full source code at: https://gist.githubusercontent.com/pearl-bst/056d1abce7993e6465cca226d5af158e/raw/PRIVACY_POLICY.md
