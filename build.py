@@ -60,7 +60,7 @@ def firefox_manifest(base: dict) -> dict:
     m = json.loads(json.dumps(base))
     m["browser_specific_settings"] = {
         "gecko": {
-            "id": "note-search-for-sap@local.dev",
+            "id": "note-search-for-sap@pearl-bst.github.io",
             "strict_min_version": "115.0",
         }
     }
